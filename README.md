@@ -79,7 +79,7 @@ Distance: X.X cm at YY°C
 ## License
 This project is for educational purposes.
 
-Previous Project: [ESP32 Morse Code LED Communication](https://github.com/Inhle-C/Project-5-esp32-lab5-morse-led)  
+Previous Project: [ESP32 Morse Code LED Communication](https://github.com/Inhle-C/Project-5-esp32-morse-led)  
 (Part 5 of the series)
 
 Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-7-esp32-iot-setup-rust) 🔗  
