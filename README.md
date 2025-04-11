@@ -82,5 +82,5 @@ This project is for educational purposes.
 Previous Project: [ESP32 Morse Code LED Communication](https://github.com/Inhle-C/Project-5-esp32-lab5-morse-led)  
 (Part 5 of the series)
 
-Next Project: ESP32 Sensor Data Logger 🔗  
+Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-7-esp32-iot-setup-rust) 🔗  
 (To be uploaded as Part 7 of the series)
